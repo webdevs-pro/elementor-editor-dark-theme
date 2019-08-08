@@ -6,7 +6,7 @@
  
 * Plugin URI: https://www.shofar-media.in.ua/elementor-dark-ui-theme/
 * Description: This plugin adds a dark ui theme to the Elementor page builder
-* Version: 1.5
+* Version: 1.6
  
 * Author: Alex Soundmaster
  
@@ -14,6 +14,13 @@
  
 */
 
+/*
+CHANGELOG
+1.6
+- Moved to GitHub
+
+
+*/
 
 add_action( 'elementor/editor/after_enqueue_styles', function() {
 	
