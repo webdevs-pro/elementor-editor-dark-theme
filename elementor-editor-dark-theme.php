@@ -2,11 +2,11 @@
  
 /**
  
-* Plugin Name: Elementor editor dark theme
+* Plugin Name: Elementor Editor Eark Theme
  
 * Plugin URI: https://www.shofar-media.in.ua/elementor-dark-ui-theme/
 * Description: This plugin adds a dark ui theme to the Elementor page builder
-* Version: 1.7
+* Version: 1.6.1
  
 * Author: Alex Soundmaster
  
@@ -14,13 +14,6 @@
  
 */
 
-/*
-CHANGELOG
-1.7
-- Moved to GitHub
-
-
-*/
 
 add_action( 'elementor/editor/after_enqueue_styles', function() {
 	
