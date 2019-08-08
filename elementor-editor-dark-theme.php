@@ -305,9 +305,11 @@ add_action( 'elementor/editor/after_enqueue_styles', function() {
 	</style>';
 	
 } );
+
+
 require 'plugin-update-checker/plugin-update-checker.php';
 $myUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
-	'http://website.cv.ua/plugins/elementor-editor-dark-theme.json',
-	__FILE__, //Full path to the main plugin file or functions.php.
+	'https://github.com/AlexSoundmaster/elementor-editor-dark-theme',
+	__FILE__,
 	'elementor-editor-dark-theme'
 );
