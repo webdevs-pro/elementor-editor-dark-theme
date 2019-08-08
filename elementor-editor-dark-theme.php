@@ -1,17 +1,17 @@
 <?php
  
 /**
- 
+*
 * Plugin Name: Elementor Editor Eark Theme
- 
-* Plugin URI: https://www.shofar-media.in.ua/elementor-dark-ui-theme/
+*
+* Plugin URI: https://github.com/AlexIschenko/elementor-code-editor-popup
 * Description: This plugin adds a dark ui theme to the Elementor page builder
-* Version: 1.6.1
- 
-* Author: Alex Soundmaster
- 
-* License: A license name
- 
+* Version: 1.6.2
+*
+* Author: Alex Ischenko
+*
+* License: GPL 3.0
+*
 */
 
 
@@ -309,7 +309,7 @@ add_action( 'elementor/editor/after_enqueue_styles', function() {
 
 require 'plugin-update-checker/plugin-update-checker.php';
 $myUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
-	'https://github.com/AlexSoundmaster/elementor-editor-dark-theme',
+	'https://github.com/AlexIschenko/elementor-code-editor-popup',
 	__FILE__,
 	'elementor-editor-dark-theme'
 );
