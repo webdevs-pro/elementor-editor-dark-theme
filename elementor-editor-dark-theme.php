@@ -291,7 +291,7 @@ add_action( 'elementor/editor/after_enqueue_styles', function() {
 	/* code editor popup */
 	.elementor-control-custom_css.ai_drag,
 	.elementor-control-html.ai_drag,
-	.elementor-control-custom_js.ai_drag {
+	.elementor-control-custom_html.ai_drag {
 		border: 1px solid #555 !important;
 	}
 
