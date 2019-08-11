@@ -2,11 +2,11 @@
  
 /**
 *
-* Plugin Name: Elementor Editor Eark Theme
+* Plugin Name: Elementor Editor Dark Theme
 *
 * Plugin URI: https://github.com/AlexIschenko/elementor-code-editor-popup
 * Description: This plugin adds a dark ui theme to the Elementor page builder
-* Version: 1.6.4
+* Version: 1.6.5
 *
 * Author: Alex Ischenko
 *

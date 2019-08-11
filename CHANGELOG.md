@@ -3,6 +3,10 @@ Elementor Editor Eark Theme
 
 1.6.4
 -----
+- Plugin title fix
+
+1.6.4
+-----
 - Updater fix
 
 1.6.3
