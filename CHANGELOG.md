@@ -1,9 +1,13 @@
 Elementor Editor Eark Theme
 ===========================
 
+1.6.4
+-----
+- Updater fix
+
 1.6.3
 -----
-- style for custom JS popup
+- Style for custom JS popup
 
 1.6.2
 -----
