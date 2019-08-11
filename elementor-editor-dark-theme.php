@@ -310,7 +310,7 @@ add_action( 'elementor/editor/after_enqueue_styles', function() {
 
 require 'plugin-update-checker/plugin-update-checker.php';
 $myUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
-	'https://github.com/AlexIschenko/elementor-code-editor-popup',
+	'https://github.com/AlexIschenko/elementor-editor-dark-theme',
 	__FILE__,
 	'elementor-editor-dark-theme'
 );
