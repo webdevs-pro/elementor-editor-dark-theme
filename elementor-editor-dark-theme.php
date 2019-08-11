@@ -6,7 +6,7 @@
 *
 * Plugin URI: https://github.com/AlexIschenko/elementor-code-editor-popup
 * Description: This plugin adds a dark ui theme to the Elementor page builder
-* Version: 1.6.2
+* Version: 1.6.3
 *
 * Author: Alex Ischenko
 *
@@ -290,7 +290,8 @@ add_action( 'elementor/editor/after_enqueue_styles', function() {
 
 	/* code editor popup */
 	.elementor-control-custom_css.ai_drag,
-	.elementor-control-html.ai_drag {
+	.elementor-control-html.ai_drag,
+	.elementor-control-custom_js.ai_drag {
 		border: 1px solid #555 !important;
 	}
 

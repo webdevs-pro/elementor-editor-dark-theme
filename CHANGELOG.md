@@ -1,6 +1,10 @@
 Elementor Editor Eark Theme
 ===========================
 
+1.6.3
+-----
+- style for custom JS popup
+
 1.6.2
 -----
 - Plugin homepage moved to GitHub
