@@ -1,5 +1,9 @@
-Elementor Editor Eark Theme
+Elementor Editor Dark Theme
 ===========================
+
+1.6.7
+-----
+- Code editor popup style fix
 
 1.6.6
 -----
