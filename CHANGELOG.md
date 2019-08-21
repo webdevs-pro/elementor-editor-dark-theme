@@ -1,6 +1,10 @@
 Elementor Editor Dark Theme
 ===========================
 
+1.6.9
+-----
+- WYSIWYG editor popup style fix
+
 1.6.8
 -----
 - Code editor popup style fix

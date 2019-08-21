@@ -6,7 +6,7 @@
 *
 * Plugin URI: https://github.com/AlexIschenko/elementor-editor-dark-theme
 * Description: This plugin adds a dark ui theme to the Elementor page builder
-* Version: 1.6.8
+* Version: 1.6.9
 *
 * Author: Alex Ischenko
 *
@@ -292,10 +292,12 @@ add_action( 'elementor/editor/after_enqueue_styles', function() {
 		border: 1px solid #555 !important;
 	}
 
-	.maximize_button {
+	.maximize_button,
+	.wysiwyg_maximize_button {
 		border: 1px solid #555 !important;
 	}
-	.minimize_button {
+	.minimize_button,
+	.wysiwyg_minimize_button {
 		border: 1px solid #555 !important;
 	}
 	</style>';
