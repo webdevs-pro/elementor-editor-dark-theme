@@ -6,7 +6,7 @@
 *
 * Plugin URI: https://github.com/AlexIschenko/elementor-editor-dark-theme
 * Description: This plugin adds a dark ui theme to the Elementor page builder
-* Version: 2.0
+* Version: 2.1
 *
 * Author: Alex Ischenko
 *
