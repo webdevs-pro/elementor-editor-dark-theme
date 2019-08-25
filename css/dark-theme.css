@@ -294,6 +294,17 @@ input[disabled] {
 .elementor-context-menu-list__item:not(.elementor-context-menu-list__item--disabled):hover {
    background-color :var(--background_light);
 }
+.elementor-context-menu-list__item.elementor-context-menu-list__item--disabled .elementor-context-menu-list__item__title {
+   color: #555 !important;
+}
+.elementor-context-menu-list__item.elementor-context-menu-list__item--disabled .elementor-context-menu-list__item__shortcut {
+   color: #555 !important;
+}
+.elementor-context-menu-list__item.elementor-context-menu-list__item--disabled .elementor-context-menu-list__item__icon {
+   color: #555 !important;
+}
+
+
 
 
 /* CODE EDITOR POPUP */
