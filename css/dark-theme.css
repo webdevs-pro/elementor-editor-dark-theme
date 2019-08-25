@@ -244,7 +244,9 @@ input[disabled] {
 .elementor-control-type-repeater .elementor-repeater-row-controls {
    border-color: var(--border_color);
 }
-
+.widget-inside {
+   background: transparent;
+}
 
 /* NAVIGATOR */
 #elementor-navigator__inner {
